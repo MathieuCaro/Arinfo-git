@@ -3,4 +3,5 @@
 
 int main(void){
 	say_hello("Uncle Bob");
+	say_happy_birthday("Uncle Bob");
 }
